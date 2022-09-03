@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    color: aliceblue;
+
+}
+.center{
+    text-align: center;
+}
+h1 {
+    text-align: left;
+    font-size: 70px;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+li {
+    display: inline;
+    margin: 15px;
+    font-size: 100%;
+    font-weight: 500;
+}
+
+.info {
+    position: absolute;
+    right: 50px;
+}
+
+.navbar {
+    text-align: right;
+    margin: -8px;
+    border: 1px solid white
+}
+
+body {
+    background-color: rgb(97, 35, 120)
+}
+
+.button {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 28px;
+    font-weight: 1000;
+    color: rgb(97, 35, 120);
+    border: 2px solid white;
+    background-color: white;
+    width: 200px;
+    height: 75px;
+}
+
+.img_1st {
+    float: right;
+    height: 300px;
+    width: 220px;
+    border: 2px solid white;
+    background-color: white;
+
+}
+
+.heading {
+    font-size: 30px;
+}
+
+p {
+    text-align: left;
+    font-size: 20px;
+}
+
+.img_customer {
+    border-radius: 50%;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin: 65px;
+}
+
+.customer_review_1 {
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.customer_review_2 {
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.customer_review_3 {
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.form {
+    padding: 10;
+    width: 800px;
+    margin-left: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.review div {
+    margin: -30px;
+
+}
+
+.review p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.review {
+    margin: -30px;
+
+}
+
+.contact {
+    display: inline-block;
+    padding: 10;
+    margin-top: 100px;
+
+
+}
+
+.contact_1 {
+    float: right;
+    padding: 1%;
+    margin: 0 auto;
+}
+
+.map {
+    padding: 1%;
+    margin: 0 auto;
+    margin-right: 450px;
+}
+.header{
+    font-size:40px;
+}
